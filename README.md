@@ -1,2 +1,2 @@
-# 02-homework
-Week 2 homework initial commit
+# Week01-Code-Refactor
+Week 1 homework initial commit
